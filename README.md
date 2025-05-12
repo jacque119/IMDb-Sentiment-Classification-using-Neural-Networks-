@@ -1,0 +1,2 @@
+# IMDb-Sentiment-Classification-using-Neural-Networks-
+Built a sentiment analysis model using deep learning to classify IMDb movie reviews as positive or negative. Implemented an Artificial Neural Network (ANN) with TensorFlow and developed a complete NLP pipeline including preprocessing, tokenization, and vectorization. Deployed a user-friendly web app with Streamlit, hosted on Hugging Face Spaces.
